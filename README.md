@@ -13,12 +13,12 @@ In Stage 1, you will provide a general overview of the data and record your obse
 In Stage 2, you will preprocess the data by cleaning it.
 Finally, in Stage 3, you will test the hypothesis by following the necessary programming steps to verify each statement and commenting on your results in the appropriate sections.
 
-Proyect 3  [🔗 Deliveries grocery Instacart ) https://github.com/Lalo8Ortiz/-Data-Analysis/blob/main/P3Deliveries%20%20Instacart.ipynb 
+Proyect 3 [🔗 Deliveries grocery Instacart ) https://github.com/Lalo8Ortiz/-Data-Analysis/blob/main/P3Deliveries%20%20Instacart.ipynb 
 Instacart is a grocery delivery platform where customers can place orders and have them delivered, similar to Uber Eats and DoorDash. The dataset provided has been modified from the original version. The size has been reduced to speed up computations, and missing values and duplicates have been introduced. These modifications were made carefully to preserve the original data distributions. 
 
 The analysis consists of three main steps. For each step, a clear introduction will be provided to outline the approach taken. Additionally, explanatory paragraphs will be included to justify the decisions made throughout the process. Finally, a conclusion will summarize the key findings and methodological choices.
 
-Proyect 4[🔗 Megaline telecommunications company ) https://github.com/Lalo8Ortiz/-Data-Analysis/blob/main/P4_Telecomunicaciones_Megaline_.ipynb
+Proyect 4 [🔗 Megaline telecommunications company ) https://github.com/Lalo8Ortiz/-Data-Analysis/blob/main/P4_Telecomunicaciones_Megaline_.ipynb
 As an analyst for the telecommunications company Megaline, your task is to evaluate the performance of two prepaid plans: Surf and Ultimate. The marketing department wants to determine which plan generates more revenue to optimize the advertising budget.
 
 You will conduct a preliminary analysis based on a sample of 500 customers, examining their usage patterns and revenue contributions. The dataset contains customer demographics, location, subscription type, call durations, and the number of text messages sent in 2018. Your goal is to analyze customer behavior and identify which plan yields higher revenue.
