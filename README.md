@@ -34,3 +34,6 @@ The dataset contains sales data up to 2016, and your goal is to use these insigh
 
 The dataset also includes the "rating" column, which contains ESRB classifications (Entertainment Software Rating Board). This rating system categorizes games based on age suitability, such as Teen (T) or Mature (M).
 
+P7. Travel Data Analysis – Zuber https://github.com/Lalo8Ortiz/-Data-Analysis/blob/main/P7_Recopilacion_Almacenamiento_de_datos_SQL.ipynb
+I analyzed taxi usage patterns in Chicago to identify the impact of weather on travel demand. I integrated multiple data sources and conducted exploratory analysis using SQL and Python, validating hypotheses through statistical testing.
+
