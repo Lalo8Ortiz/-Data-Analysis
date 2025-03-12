@@ -27,7 +27,7 @@ You will conduct a preliminary analysis based on a sample of 500 customers, exam
 
 Proyect 5  [🔗 API basic charts)] https://github.com/Lalo8Ortiz/TT_Proyecto5.git
 
-Proyect 5 [🔗 Videogames Company ) https://github.com/Lalo8Ortiz/-Data-Analysis/blob/main/Proyecto_6_Tienda_Online_de_videojuegos_(proyecto_integrador).ipynb
+Proyect 6 [🔗 Videogames Company ) https://github.com/Lalo8Ortiz/-Data-Analysis/blob/main/Proyecto_6_Tienda_Online_de_videojuegos_(proyecto_integrador).ipynb
 As an analyst for the Ice online store, which sells video games worldwide, your task is to identify patterns that determine whether a game is successful or not. By analyzing user and expert reviews, game genres, platforms (e.g., Xbox, PlayStation), and historical sales data, you will gain insights to detect promising projects and optimize marketing campaigns.
 
 The dataset contains sales data up to 2016, and your goal is to use these insights to plan a 2017 marketing campaign. While the actual year of prediction does not impact the methodology, the focus is on developing data-driven forecasting skills.
